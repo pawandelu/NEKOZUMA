@@ -38,26 +38,6 @@
 // let result = reverse("pawan");
 // console.log(result);
 
-// 4.// Count the number of vowels in a given string.
-
-// function countVowels(abc) {
-//   let count = 0;
-//   let vowels = "aeiouAEIOU";
-
-//   for (let i = 0; i < abc.length; i++) {
-//     for (let j = 0; j < vowels.length; j++) {
-//       if (abc[i] === vowels[j]) {
-//         count++;
-//         break;
-//       }
-//     }
-//   }
-
-//   return count;
-// }
-
-// let result = countVowels("pawan");
-// console.log(result);
 
 // 5.// Print numbers from 1 to 100:
 
